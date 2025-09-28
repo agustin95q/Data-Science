@@ -1,0 +1,10 @@
+
+Interpreta los resultados de los gráficos y estadísticas: ¿qué conclusiones puedes sacar sobre los Pokémon de la primera generación?
+¿Qué tipo de Pokémon sería "más balanceado" según las estadísticas? ¿Y el más especializado?
+
+
+Existe una relacion clara entre el tipo de pokemon y sus estadisticas, pero tambien existen pokemon que presentan una dispersion significativa
+en algunas estadisticas, en el ejercicio de los outliners pudimos ver que hay pokemon por sobre el resto.
+
+#En cuanto a balance creo que los que mejor estan son los de tipo normal, sus estadisticas son bastante parejas y los mas especializados podrian ser
+los de tipo roca y electrico, tienen mas estadisticas altas.
